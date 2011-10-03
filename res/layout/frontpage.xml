@@ -39,7 +39,7 @@
 		android:layout_height="wrap_content"
 		android:layout_weight="1" />
 		<Button android:id="@+id/gotofacebookbutton" 
-		android:text="facebook" 
+		android:text="fjasboka!!!" 
 		android:textSize="10pt"
 		android:layout_width="fill_parent" 
 		android:layout_height="wrap_content"
